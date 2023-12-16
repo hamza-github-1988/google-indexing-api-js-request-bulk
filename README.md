@@ -8,11 +8,11 @@ Crafted with care by Abdelhafidh HAMZA, this script simplifies the bulk indexing
 
 ## Setup
 
-1. Follow the instructions in the [Google Indexing API Prerequisites](https://developers.google.com/search/apis/indexing-api/v3/prereqs) guide to set up access to the Indexing API in Google Cloud Platform.
+1. Refer to the [Google Indexing API Prerequisites guide](https://developers.google.com/search/apis/indexing-api/v3/prereqs) for guidance on establishing access to the Indexing API within the Google Cloud Platform.
    
-2. Once you have access, download the public/private key pair JSON file, containing your credentials, and save it as "key.json".
+2. After successfully gaining access, retrieve the JSON file comprising your public/private key pair, housing your credentials. Save this file as "key.json" in the project.
 
-3. Add the URLs you want to be crawl/index to the "urls.txt" file.
+3. Include the URLs you wish to crawl/index in the "urls.txt" file.
 
 ## Verify Site Ownership in Search Console
 
