@@ -1,8 +1,6 @@
 # Google Indexing API Js Request Bulk
 
-This script, created with love by Abdelhafidh HAMZA, helping you to bulk indexing your website's pages using the Google Indexing API.
-
-This eliminates the need for manually submitting each URL through the Search Console interface.
+Crafted with care by Abdelhafidh HAMZA, this script simplifies the bulk indexing of your website's pages through the Google Indexing API. Say goodbye to the manual submission of individual URLs via the Search Console interface.
 
 ## Prerequisites
 
